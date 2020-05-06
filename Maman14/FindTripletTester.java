@@ -1,6 +1,6 @@
 public class FindTripletTester
 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         int[] arr0 = {0, 0, 0};
         System.out.println("arr0: " + (Ex14.findTriplet(arr0) == 0));
