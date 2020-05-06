@@ -1,86 +1,129 @@
 0 0 0
-true
+arr0: true
+
 10 10 10
-true
+arr1: true
+
 10 10 -10
-true
+arr2: true
+
 10 -10 10
-true
+arr3: true
+
 -10 10 10
-true
+arr4: true
+
 -10 -10 10
-true
+arr5: true
+
 -10 -10 -10
-true
+arr6: true
+
 0 0 0
-true
+arr7: true
+
 10 0 0
-true
+arr8: true
+
 10 0 0
-true
+arr9: true
+
 10 0 0
-true
+arr10: true
+
 10 0 0
-true
+arr11: true
+
 10 10 0
-true
+arr12: true
+
 10 10 0
-true
+arr13: true
+
 0 10 0
-true
+arr14: true
+
 10 0 0
-true
+arr15: true
+
 0 0 10
-true
+arr16: true
+
 0 10 10
-true
+arr17: true
+
 10 -8 -5
-true
+arr18: true
+
 5 -10 -8
-true
+arr19: true
+
 10 -5 -2
-true
+arr20: true
+
 10 -8 -2
-true
+arr21: true
+
 10 -5 -2
-true
+arr22: true
+
 10 8 5
-true
+arr23: true
+
 10 5 2
-true
+arr24: true
+
 -2 -5 -8
-true
+arr25: true
+
 0 -10 -5
-true
+arr26: true
+
 -1 -2 -20
-true
+arr27: true
+
 -3 -3 -3
-true
+arr28: true
+
 9 -10 -2
-true
+arr29: true
+
 90 -10 -5
-true
+arr30: true
+
 -1 -2 -9
-true
+arr31: true
+
 3 3 3
-true
+arr32: true
+
 9 -10 -2
-true
+arr33: true
+
 90 -10 -5
-true
+arr34: true
+
 -1 -2 -9
-true
+arr35: true
+
 3 3 3
-true
+arr36: true
+
 0 0 0
-true
+arr37: true
+
 7 6 0
-true
+arr38: true
+
 3 -10 -9
-true
+arr39: true
+
 5 0 0
-true
+arr40: true
+
 30 20 10
-true
+arr41: true
+
 5 4 3
-true
+arr42: true
+
