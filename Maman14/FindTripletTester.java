@@ -68,7 +68,7 @@ public class FindTripletTester
         int[] arr29 = {-10, 2, 9, -2};
         System.out.println(Ex14.findTriplet(arr29) == 180);
         int[] arr30 = {-10, -5, 0, -2, 90};
-        System.out.println(Ex14.findTriplet(arr30) == 900);
+        System.out.println(Ex14.findTriplet(arr30) == 4500);
         int[] arr31 = {-100, -20, -1, -2, -9, -10};
         System.out.println(Ex14.findTriplet(arr31) == -18);
         int[] arr32 = {3, 3, 3, 3, 3, 3};
