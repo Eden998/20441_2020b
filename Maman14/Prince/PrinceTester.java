@@ -93,4 +93,4 @@ class PrinceTester
         result = Ex14.prince (drm,4,4);
         System.out.println(result == 5 ? "Test 25 passed." : "Wrong output.\nExpected Output:-1\n Your output: " + result);
       }
-  }    // Ex12StudentTester
+  }
