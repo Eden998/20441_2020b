@@ -1,0 +1,101 @@
+*****Point Tester*****
+
+isAbove Test:
+Test Passed
+
+isUnder Test:
+Test Passed
+
+isLeft Test:
+Test Passed
+
+isRight Test:
+Test Passed
+
+equals Test:
+Test Passed
+
+toString Test:
+Test Passed
+
+distance Test:
+Test Passed
+
+move Test:
+Test Passed
+
+
+
+*****Polygon Tester*****
+
+addVertex Test - Incorrect values:
+Test Passed
+
+addVertex Test - Correct values:
+Test Passed
+
+addVertex and findVertex Test - Correct Positions:
+Test Passed
+
+highestVertex Test:
+Test Passed
+
+toString Test:
+Test Passed
+
+calcPerimeter Test:
+Test Passed
+
+isBigger Test:
+Test Passed
+
+getNextVertex Test:
+Test Passed
+
+getBoundingBox Test:
+Test Passed
+
+
+*****Aliasing Test*****
+
+Constructor Test:
+Test Passed
+
+getPoint() Test:
+Test Passed
+
+setPoint() Test:
+Test Passed
+
+
+*****More Edge Case Testing*****
+
+Empty toString Test:
+Test Passed
+
+getNextVertex Test - last Vertex:
+Test Passed
+
+getBoundingBox Test - less than 3 vertex:
+Test Passed
+
+highestVertex Test - no vertex:
+Test Passed
+
+calcPerimeter Test - no vertex:
+Test Passed
+
+calcArea Test - no vertex:
+Test Passed
+
+findVertex Test - no vertex:
+Test Passed
+
+getNextVertex Test - no vertex:
+Test Passed
+
+getBoundingBox Test - last Vertex:
+Test Passed
+
+calcPerimeter Test - 2 Vertex:
+Test Passed
